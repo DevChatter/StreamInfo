@@ -8,10 +8,15 @@
  - Saturdays at 1PM EDT
  
 
-## Planned Streams
+## Upcoming Streams
 
- - 2018-04-02 Monday 2PM EDT - SignalR and Overlay Stream
- - 2018-04-03 Tuesday 2PM EDT - Guest Pair Programming Stream
- - 2018-04-05 Thursday 12PM EDT - Possible Refactoring Stream
- - 2018-04-07 Saturday 1PM EDT - Possible Refactoring Stream
+ - [2018-04-09 Monday 2PM EDT - Completing the Heist Game](Streams/2018-04-09.md) 
+ - 2018-04-10 Tuesday 2PM EDT
+ - 2018-04-12 Thursday 12PM EDT
+ - 2018-04-14 Saturday 1PM EDT
+ 
+ - 2018-04-16 Monday 2PM EDT
+ - 2018-04-17 Tuesday 2PM EDT
+ - 2018-04-19 Thursday 12PM EDT
+ - 2018-04-21 Saturday 1PM EDT
  
