@@ -10,7 +10,7 @@
 
 ## Upcoming Streams
 
-### This Week
+#### This Week
 
  - April 16 -  **Monday 2PM EDT** - More DevChatter Chat Bot
  - [April 17 - **Tuesday 2PM EDT** - New ASPNET Core/Vue.js Project - Game Tracking App](Streams/2018-04-17.md)
@@ -18,7 +18,7 @@
  - April 20 - **Friday 12PM EDT** - moved here from Thursday
  - April 21 - **Saturday 1PM EDT**
 
-### Next Week
+#### Next Week
 
  - April 23 - **Monday 2PM EDT** -
  - April 24 - **Tuesday 2PM EDT** -
