@@ -25,3 +25,9 @@
  - April 26 - **Thursday 12PM EDT** -
  - April 28 - **Saturday 1PM EDT** -
  
+## Stream Goals
+
+ - 512 Followers - **COMPLETED** Celebratory 5+ hour stream
+ - 1024 Followers - 
+ - 2048 Followers - 
+ - Twitch Partner Status - New Subscriber Emotes (and another surprise)
