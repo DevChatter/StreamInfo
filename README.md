@@ -28,6 +28,6 @@
 ## Stream Goals
 
  - 512 Followers - **COMPLETED** Celebratory 5+ hour stream
- - 1024 Followers - 
+ - 1024 Followers - We'll do a prize giveaway!
  - 2048 Followers - 
  - Twitch Partner Status - New Subscriber Emotes (and another surprise)
