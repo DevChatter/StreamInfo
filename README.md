@@ -16,7 +16,7 @@
  - April 24 - **Tuesday 2PM EDT** - 
  - April 25 - **Wednesday 2PM EDT** - [Learning how to use CodeRush](Streams/2018-04-25.md) with Mark Miller
  - April 26 - **Thursday 12PM EDT** -
- - April 28 - **Saturday 1PM EDT** -
+ - April 28 - **Saturday 1PM EDT** - [Working on GameTracker](Streams/2018-04-28.md)
 
 #### Next Week
 
