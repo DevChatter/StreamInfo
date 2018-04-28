@@ -20,7 +20,7 @@
 
 #### Next Week
 
- - April 30 - **Monday 2PM EDT** -
+ - April 30 - **Monday 2PM EDT** - [Review PRs add Features to DevChatterBot](Streams/2018-04-30.md)
  - May 1 - **Tuesday 2PM EDT** -
  - May 3 - **Thursday 12PM EDT** -
  - May 5 - **Saturday 1PM EDT** -
