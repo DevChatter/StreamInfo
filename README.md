@@ -21,7 +21,7 @@
 
  - May 7 - **Monday 2PM EDT** - 
  - May 8 - **Tuesday 2PM EDT** -
- - May 10 - **Thursday 12PM EDT** -
+ - May 10 - **Thursday 12PM EDT** - Pair Programming with James Chambers
  - May 11 - **Saturday 1PM EDT** -
  
 ## Stream Goals
