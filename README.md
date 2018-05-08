@@ -12,17 +12,17 @@
 
 #### This Week
 
- - April 30 - **Monday 1PM EDT** - **Early Stream** [Review PRs add Features to DevChatterBot](Streams/2018-04-30.md)
- - May 1 - **Tuesday 2PM EDT** - 
- - May 3 - **Thursday 12PM EDT** - Chat Bot Refactoring and Clean Up
- - May 5 - **Saturday 1PM EDT** - 3 months of streaming celebration
-
-#### Next Week
-
- - May 7 - **Monday 2PM EDT** - Pair Programming with James Chambers
- - May 8 - **Tuesday 2PM EDT** -
+ - May 7 - **Monday 2PM EDT** - 
+ - May 8 - **Tuesday 2PM EDT** - ~Pair Programming with James Chambers~ Other code.
  - May 10 - **Thursday 12PM EDT** - Pair Programming with Eric Fleming
  - May 11 - **Saturday 1PM EDT** -
+ 
+#### Next Week
+
+ - May 14 - **Monday 2PM EDT** - 
+ - May 15 - **Tuesday 2PM EDT** - Pair Programming with James Chambers
+ - May 17 - **Thursday 12PM EDT** - 
+ - May 19 - **Saturday 1PM EDT** - 
  
 ## Stream Goals
 
