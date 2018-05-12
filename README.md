@@ -19,7 +19,7 @@
  
 #### Next Week
 
- - May 14 - **Monday 2PM EDT** - 
+ - May 14 - **Monday 2PM EDT** - Add Logging to the Chat Bot
  - May 15 - **Tuesday 2PM EDT** - Pair Programming with James Chambers
  - May 17 - **Thursday 12PM EDT** - 
  - May 19 - **Saturday 1PM EDT** - 
