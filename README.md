@@ -14,7 +14,7 @@
 
  - May 14 - **Monday 2PM EDT** - Add Logging to the Chat Bot
  - May 15 - **Tuesday 2PM EDT** - Pair Programming with [James Chambers](https://twitter.com/canadianjames)
- - May 17 - **Thursday 12PM EDT** - 
+ - May 17 - **Thursday 12PM EDT** - Pair Programming with [James Chambers](https://twitter.com/canadianjames) again!
  - May 19 - **Saturday 1PM EDT** - 
  
 #### Next Week
