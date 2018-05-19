@@ -21,9 +21,16 @@
 #### Next Week
 
  - May 21 - **Monday 2PM EDT** - 
- - May 22 - **Tuesday 2PM EDT** - 
+ - May 22 - **Tuesday 2PM EDT** - *Possible* Pair Programming Azure Stream
  - May 24 - **Thursday 12PM EDT** - 
- - May 26 - **Saturday 1PM EDT** - 
+ - May 26 - **Saturday 1PM EDT** -  
+ 
+#### Next Next Week
+
+ - May 28 - **Monday 2PM EDT** - 
+ - May 29 - **Tuesday 2PM EDT** - 
+ - May 31 - **Thursday 12PM EDT** - 
+ - June 2 - **Saturday 1PM EDT** - 
  
 ## Stream Goals
 
