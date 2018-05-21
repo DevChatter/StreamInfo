@@ -32,6 +32,14 @@
  - May 31 - **Thursday 12PM EDT** - 
  - June 2 - **Saturday 1PM EDT** - 
  
+## Planned (or Wishful) Streams
+
+ - Creating a statically generated site for devchatter.com
+ - Hosting statically generated site on Azure
+ - Pair Programming the design of our site/bot with a designer. (We want to set this up with a poor design that she/he can assist with.)
+ - Architecture Review and Refactoring Stream
+ - Programming Competition Stream (many guests)
+ 
 ## Stream Goals
 
  - ~512 Followers - Celebratory 5+ hour stream~ **COMPLETED**
