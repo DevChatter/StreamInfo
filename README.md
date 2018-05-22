@@ -1,4 +1,4 @@
-# StreamInfo
+# DevChatter Stream Info
 
 ## Regular Schedule
 
