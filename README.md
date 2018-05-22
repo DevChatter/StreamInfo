@@ -38,7 +38,13 @@
  - Pair Programming the design of our site/bot with a designer. (We want to set this up with a poor design that she/he can assist with.)
  - Architecture Review and Refactoring Stream
  - Programming Competition Stream (many guests)
- 
+
+## Guests
+
+ - Sarah Dutkiewicz - [@Sadukie](https://twitter.com/sadukie)
+ - James Chambers - [@CanadianJames](https://twitter.com/CanadianJames)
+ - Eric Fleming - [@efleming18](https://twitter.com/efleming18)
+
 ## Stream Goals
 
  - ~512 Followers - Celebratory 5+ hour stream~ **COMPLETED**
