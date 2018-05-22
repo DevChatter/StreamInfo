@@ -12,8 +12,8 @@
  
 #### This Week
 
- - May 21 - **Monday 2PM EDT** - 
- - May 22 - **Tuesday 2PM EDT** - *Possible* Pair Programming Azure Stream
+ - May 21 - **Monday 2PM EDT** - Adding more bot configuration on the web site.
+ - May 22 - **Tuesday 2PM EDT** - 
  - May 24 - **Thursday 12PM EDT** - 
  - May 26 - **Saturday 1PM EDT** -  
  
