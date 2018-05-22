@@ -41,9 +41,9 @@
 
 ## Guests
 
- - Sarah Dutkiewicz - [@Sadukie](https://twitter.com/sadukie)
- - James Chambers - [@CanadianJames](https://twitter.com/CanadianJames)
- - Eric Fleming - [@efleming18](https://twitter.com/efleming18)
+ - Sarah Dutkiewicz (1 Stream) - [@Sadukie](https://twitter.com/sadukie)
+ - James Chambers (3 Streams) - [@CanadianJames](https://twitter.com/CanadianJames)
+ - Eric Fleming (1 Stream) - [@efleming18](https://twitter.com/efleming18)
 
 ## Stream Goals
 
