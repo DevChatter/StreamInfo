@@ -22,7 +22,14 @@
  - May 28 - **Monday 2PM EDT** - 
  - May 29 - **Tuesday 2PM EDT** - 
  - May 31 - **Thursday 12PM EDT** - 
- - June 2 - **Saturday 1PM EDT** - 
+ - June 2 - **Saturday 1PM EDT** -  
+
+#### Week After Next
+
+ - June 4 - **Monday 2PM EDT** - 
+ - June 5 - **Tuesday 2PM EDT** - [Azure Pairing Stream](Streams/2018-06-05.md) with [Maxime Rouiller](https://twitter.com/MaximRouiller)
+ - June 7 - **Thursday 12PM EDT** - 
+ - June 9 - **Saturday 1PM EDT** - 
  
 ## Planned (or Wishful) Streams
 
