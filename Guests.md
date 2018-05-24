@@ -6,6 +6,7 @@
  - Maxime Rouiller - ([@MaximRouiller](https://twitter.com/MaximRouiller)) - Tuesday, June 5, 2018
  - Jon Skeet ([@jonskeet](https://twitter.com/jonskeet)) - Unscheduled
  - Steve Smith ([@ardalis](https://twitter.com/ardalis)) - Unscheduled
+ - J. Tower ([@jtowermi](https://twitter.com/jtowermi)) - Monday, June 11, 2018
  
 ### Guest Suggestions
 
