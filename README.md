@@ -31,6 +31,13 @@
  - June 7 - **Thursday 12PM EDT** - 
  - June 9 - **Saturday 1PM EDT** - 
  
+#### Week After Week After Next
+
+ - June 11 - **Monday 2PM EDT** - Pair Programming with [J. Tower](https://twitter.com/jtowermi)
+ - June 12 - **Tuesday 2PM EDT** - 
+ - June 14 - **Thursday 12PM EDT** - 
+ - June 16 - **Saturday 1PM EDT** - 
+ 
 ## Planned (or Wishful) Streams
 
  - Creating a statically generated site for devchatter.com
