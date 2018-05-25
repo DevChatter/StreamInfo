@@ -22,7 +22,7 @@
  - May 28 - **Monday 2PM EDT** - 
  - May 29 - **Tuesday 2PM EDT** - 
  - May 31 - **Thursday 12PM EDT** - 
- - June 2 - **Saturday 1PM EDT** -  
+ - June 2 - **Saturday 1PM EDT** - Building Static Sites using [Wyam](https://wyam.io) with [Dave Glick](https://twitter.com/daveaglick)
 
 #### Week After Next
 
