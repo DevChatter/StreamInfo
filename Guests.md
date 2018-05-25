@@ -2,7 +2,7 @@
 
 ## Planned Future Guests
 
- - Dave Glick ([@daveaglick](https://twitter.com/daveaglick)) - Scheduling Date
+ - Dave Glick ([@daveaglick](https://twitter.com/daveaglick)) - Saturday, June 2, 2018
  - Maxime Rouiller - ([@MaximRouiller](https://twitter.com/MaximRouiller)) - Tuesday, June 5, 2018
  - Jon Skeet ([@jonskeet](https://twitter.com/jonskeet)) - Unscheduled
  - Steve Smith ([@ardalis](https://twitter.com/ardalis)) - Unscheduled
