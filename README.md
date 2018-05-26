@@ -15,7 +15,7 @@
  - May 21 - **Monday 2PM EDT** - Adding more bot configuration on the web site.
  - May 22 - **Tuesday 2PM EDT** - 
  - May 24 - **Thursday 12PM EDT** - 
- - May 26 - **Saturday 1PM EDT** -  
+ - May 26 - **Saturday 1PM EDT** - Reviewing PRs and continuing on Rock-Paper-Scissors-Boom
  
 #### Next Week
 
