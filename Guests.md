@@ -7,6 +7,7 @@
  - Jon Skeet ([@jonskeet](https://twitter.com/jonskeet)) - Unscheduled
  - Steve Smith ([@ardalis](https://twitter.com/ardalis)) - Unscheduled
  - J. Tower ([@jtowermi](https://twitter.com/jtowermi)) - Monday, June 11, 2018
+ - Jimmy Byrd ([@Jimmy_Byrd](https://twitter.com/Jimmy_Byrd)) - Thursday, May 31. 2018
  
 ### Guest Suggestions
 
