@@ -12,26 +12,19 @@
  
 #### This Week
 
- - May 21 - **Monday 2PM EDT** - Adding more bot configuration on the web site.
- - May 22 - **Tuesday 2PM EDT** - 
- - May 24 - **Thursday 12PM EDT** - 
- - May 26 - **Saturday 1PM EDT** - Reviewing PRs and continuing on Rock-Paper-Scissors-Boom
- 
-#### Next Week
-
- - May 28 - **Monday 2PM EDT** - 
+ - May 28 - **Monday 2PM EDT** - Rock-Paper-Scissors-Boom Competition
  - May 29 - **Tuesday 2PM EDT** - 
  - May 31 - **Thursday 12PM EDT** - Pair Programming with [Jimmy Byrd](https://twitter.com/Jimmy_Byrd)
  - June 2 - **Saturday 1PM EDT** - Building Static Sites using [Wyam](https://wyam.io) with [Dave Glick](https://twitter.com/daveaglick)
 
-#### Week After Next
+#### Next Week
 
  - June 4 - **Monday 2PM EDT** - 
  - June 5 - **Tuesday 2PM EDT** - [Azure Pairing Stream](Streams/2018-06-05.md) with [Maxime Rouiller](https://twitter.com/MaximRouiller)
  - June 7 - **Thursday 12PM EDT** - 
  - June 9 - **Saturday 1PM EDT** - 
  
-#### Week After Week After Next
+#### Week After Next
 
  - June 11 - **Monday 2PM EDT** - Pair Programming with [J. Tower](https://twitter.com/jtowermi)
  - June 12 - **Tuesday 2PM EDT** - 
