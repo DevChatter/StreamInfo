@@ -14,21 +14,12 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| May 28 - **Monday 2PM EDT** | Rock-Paper-Scissors-Boom Competition  |   |
-| May 29 - **Tuesday 2PM EDT** |    |    |
-| May 31 - **Thursday 12PM EDT** | Pair Programming in C# and possibly also F#  | [Jimmy Byrd](https://twitter.com/Jimmy_Byrd) |
-| June 2 - **Saturday 1PM EDT** | Building Static Sites using [Wyam](https://wyam.io) | [Dave Glick](https://twitter.com/daveaglick) |
-
-#### Next Week
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | June 4 - **Monday 2PM EDT** |  |  |
 | June 5 - **Tuesday 2PM EDT** | [Azure Pairing Stream](Streams/2018-06-05.md) | [Maxime Rouiller](https://twitter.com/MaximRouiller) |
 | June 7 - **Thursday 12PM EDT** |  |  |
 | June 9 - **Saturday 1PM EDT** |  |  |
- 
-#### Week After Next
+
+#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
