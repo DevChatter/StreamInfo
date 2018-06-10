@@ -9,17 +9,8 @@
  
 
 ## Upcoming Streams
- 
+
 #### This Week
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
-| June 4 - **Monday 2PM EDT** |  |  |
-| June 5 - **Tuesday 2PM EDT** | [Azure Pairing Stream](Streams/2018-06-05.md) | [Maxime Rouiller](https://twitter.com/MaximRouiller) |
-| June 7 - **Thursday 12PM EDT** |  |  |
-| June 9 - **Saturday 1PM EDT** |  |  |
-
-#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
@@ -27,11 +18,18 @@
 | June 12 - **Tuesday 2PM EDT** |  |  |
 | June 14 - **Thursday 12PM EDT** |  |  |
 | June 16 - **Saturday 1PM EDT** |  |  |
+
+#### Next Week
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| June 11 - **Monday 2PM EDT** |  |  |
+| June 12 - **Tuesday 2PM EDT** |  |  |
+| June 14 - **Thursday 12PM EDT** |  |  |
+| June 16 - **Saturday 1PM EDT** |  |  |
  
 ## Planned (or Wishful) Streams
 
- - Creating a statically generated site for devchatter.com
- - Hosting statically generated site on Azure
  - Pair Programming the design of our site/bot with a designer. (We want to set this up with a poor design that she/he can assist with.)
  - Architecture Review and Refactoring Stream
  - Programming Competition Stream (many guests)
