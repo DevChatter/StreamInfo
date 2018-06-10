@@ -23,10 +23,10 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| June 11 - **Monday 2PM EDT** |  |  |
-| June 12 - **Tuesday 2PM EDT** |  |  |
-| June 14 - **Thursday 12PM EDT** |  |  |
-| June 16 - **Saturday 1PM EDT** |  |  |
+| June 18 - **Monday 2PM EDT** |  |  |
+| June 19 - **Tuesday 2PM EDT** |  |  |
+| June 21 - **Thursday 12PM EDT** |  |  |
+| June 23 - **Saturday 1PM EDT** |  |  |
  
 ## Planned (or Wishful) Streams
 
