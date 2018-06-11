@@ -16,7 +16,7 @@
 | ------------------------------- | ------------- | ------------- |
 | June 11 - **Monday 2PM EDT** | Pair Programming | [J. Tower](https://twitter.com/jtowermi) |
 | June 12 - **Tuesday 2PM EDT** |  |  |
-| June 14 - **Thursday 12PM EDT** |  |  |
+| June 14 - **Thursday 12PM EDT** | Pair Programming | [Steve Smith](https://twitter.com/ardalis) |
 | June 16 - **Saturday 1PM EDT** |  |  |
 
 #### Next Week
