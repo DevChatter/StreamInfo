@@ -14,10 +14,10 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| June 11 - **Monday 2PM EDT** | Pair Programming | [J. Tower](https://twitter.com/jtowermi) |
-| June 12 - **Tuesday 2PM EDT** |  |  |
-| June 14 - **Thursday 12PM EDT** | Pair Programming | [Steve Smith](https://twitter.com/ardalis) |
-| June 16 - **Saturday 1PM EDT** |  |  |
+| June 18 - **Monday 2PM EDT** | Entity Framework - Adding Data Storage to Rock-Paper-Scissors Boom |  |
+| June 19 - **Tuesday 2PM EDT** |  |  |
+| June 21 - **Thursday 12PM EDT** |  |  |
+| June 23 - **Saturday 1PM EDT** |  |  |
 
 #### Next Week
 
@@ -36,15 +36,13 @@
 
 ## Guests
 
- - Sarah Dutkiewicz (1 Stream) - [@Sadukie](https://twitter.com/sadukie)
- - James Chambers (3 Streams) - [@CanadianJames](https://twitter.com/CanadianJames)
- - Eric Fleming (1 Stream) - [@efleming18](https://twitter.com/efleming18)
+We're always looking for new guests for the show. Please let us know if you have any suggestions for future guests!
  
 [All Guests](Guests.md)
 
 ## Stream Goals
 
  - ~512 Followers - Celebratory 5+ hour stream~ **COMPLETED**
- - 1024 Followers - We'll do a prize giveaway, and I'll plan a special event stream!
+ - ~1024 Followers~ - We'll do a prize giveaway, and I'll plan a special event stream! **Reached. Planning...**
  - 2048 Followers - We'll do another prize giveaway, and I'll plan a special event stream!
  - Twitch Partner Status - New Subscriber Emotes (and another surprise)
