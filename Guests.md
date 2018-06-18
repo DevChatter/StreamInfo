@@ -2,10 +2,9 @@
 
 ## Planned Future Guests
 
- - Maxime Rouiller - ([@MaximRouiller](https://twitter.com/MaximRouiller)) - Tuesday, June 5, 2018
- - J. Tower ([@jtowermi](https://twitter.com/jtowermi)) - Monday, June 11, 2018
+ - Simon Timms ([@stimms](https://twitter.com/stimms)) - Unscheduled
+ - Guy Royse ([@guyroyse](https://twitter.com/guyroyse)) - Unscheduled
  - Jon Skeet ([@jonskeet](https://twitter.com/jonskeet)) - Unscheduled
- - Steve Smith ([@ardalis](https://twitter.com/ardalis)) - Unscheduled
  
 ### Guest Suggestions
 
@@ -18,4 +17,7 @@ Have someone you think I should get as a guest on the stream?
  - Eric Fleming (1 Stream) - [@efleming18](https://twitter.com/efleming18)
  - Jimmy Byrd (1 Stream) - [@Jimmy_Byrd](https://twitter.com/Jimmy_Byrd)
  - Dave Glick (1 Stream) - [@daveaglick](https://twitter.com/daveaglick)
+ - Maxime Rouiller (1 Stream) - [@MaximRouiller](https://twitter.com/MaximRouiller)
+ - J. Tower (1 Stream) - [@jtowermi](https://twitter.com/jtowermi)
+ - Steve Smith (1 Stream) - [@ardalis](https://twitter.com/ardalis)
  
