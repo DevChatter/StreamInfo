@@ -17,7 +17,7 @@
 | June 18 - **Monday 2PM EDT** | Entity Framework - Adding Data Storage to Rock-Paper-Scissors Boom |  |
 | June 19 - **Tuesday 2PM EDT** |  |  |
 | June 21 - **Thursday 12PM EDT** |  |  |
-| June 23 - **Saturday 1PM EDT** |  |  |
+| June 23 - **Saturday 1PM EDT** | Programming Exercises! |  |
 
 #### Next Week
 
