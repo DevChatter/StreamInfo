@@ -14,19 +14,19 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| June 18 - **Monday 2PM EDT** | Entity Framework - Adding Data Storage to Rock-Paper-Scissors Boom |  |
-| June 19 - **Tuesday 2PM EDT** |  |  |
-| June 21 - **Thursday 12PM EDT** |  |  |
-| June 23 - **Saturday 1PM EDT** | Programming Exercises! |  |
+| June 25 - **Monday 2PM EDT** |  |  |
+| June 26 - **Tuesday 2PM EDT** |  |  |
+| June 28 - **Thursday 12PM EDT** |  |  |
+| June 30 - **Saturday 1PM EDT** |  |  |
 
 #### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| June 25 - **Monday 2PM EDT** |  |  |
-| June 26 - **Tuesday 2PM EDT** |  |  |
-| June 28 - **Thursday 12PM EDT** |  |  |
-| June 30 - **Saturday 1PM EDT** |  |  |
+| July 2 - **Monday 2PM EDT** |  |  |
+| June 3 - **Tuesday 2PM EDT** |  |  |
+| June 5 - **Thursday 12PM EDT** |  |  |
+| June 7 - **Saturday 1PM EDT** |  |  |
  
 ## Planned (or Wishful) Streams
 
