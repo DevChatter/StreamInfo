@@ -30,7 +30,10 @@
  
 ## Planned (or Wishful) Streams
 
- - Pair Programming the design of our site/bot with a designer. (We want to set this up with a poor design that she/he can assist with.)
+ - [SOLID Principles Workshop](https://github.com/DevChatter/StreamInfo/issues/12)
+ - [Powershell Workshop](https://github.com/DevChatter/StreamInfo/issues/11)
+ - [Application Security Stream](https://github.com/DevChatter/StreamInfo/issues/10)
+ - Pair Programming the design of our site/bot with a designer.
  - Architecture Review and Refactoring Stream
  - Programming Competition Stream (many guests)
 
