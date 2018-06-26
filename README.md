@@ -27,6 +27,15 @@
 | July 3 - **Tuesday 2PM EDT** |  |  |
 | July 5 - **Thursday 12PM EDT** |  |  |
 | ~July 7 - **Saturday 1PM EDT**~ | ** No Stream** |  |
+
+#### Upcoming Week
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| July 16 - **Monday 2PM EDT** |  |  |
+| July 17 - **Tuesday 2PM EDT** |  |  |
+| July 19 - **Thursday 12PM EDT** |  |  |
+| July 21 - **Saturday 1PM EDT** |  |  |
  
 ## Planned (or Wishful) Streams
 
