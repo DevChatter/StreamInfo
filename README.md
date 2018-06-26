@@ -17,13 +17,13 @@
 | June 25 - **Monday 2PM EDT** |  |  |
 | June 26 - **Tuesday 2PM EDT** |  |  |
 | June 28 - **Thursday 12PM EDT** |  |  |
-| June 30 - **Saturday 1PM EDT** |  |  |
+| June 30 - **Saturday 1PM EDT** | Learn to Code in C# - Ep 1 |  |
 
 #### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| July 2 - **Monday 2PM EDT** |  |  |
+| July 2 - **Monday 2PM EDT** | Learn to Code in C# - Ep 2 |  |
 | June 3 - **Tuesday 2PM EDT** |  |  |
 | June 5 - **Thursday 12PM EDT** |  |  |
 | June 7 - **Saturday 1PM EDT** |  |  |
