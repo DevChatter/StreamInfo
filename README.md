@@ -14,7 +14,7 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| June 25 - **Monday 2PM EDT** |  |  |
+| June 25 - **Monday 2PM EDT** | Programming Exercises - RPG Combat (Part 2) |  |
 | June 26 - **Tuesday 2PM EDT** |  |  |
 | June 28 - **Thursday 12PM EDT** |  |  |
 | June 30 - **Saturday 1PM EDT** | Learn to Code in C# - Ep 1 |  |
