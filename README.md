@@ -17,13 +17,13 @@
 | June 25 - **Monday 2PM EDT** | Programming Exercises - RPG Combat (Part 2) |  |
 | June 26 - **Tuesday 2PM EDT** |  |  |
 | June 28 - **Thursday 12PM EDT** |  |  |
-| June 30 - **Saturday 1PM EDT** | Learn to Code in C# - Ep 1 |  |
+| June 30 - **Saturday 1PM EDT** | [Learn to Code in C# - Ep 1](https://www.twitch.tv/events/lp4qOf69SYWsBxguja-XFQ) |  |
 
 #### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| July 2 - **Monday 2PM EDT** | Learn to Code in C# - Ep 2 |  |
+| July 2 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 2](https://www.twitch.tv/events/X3md4yPZTAOof5Sj9jSRbQ) |  |
 | July 3 - **Tuesday 2PM EDT** |  |  |
 | July 5 - **Thursday 12PM EDT** |  |  |
 | ~July 7 - **Saturday 1PM EDT**~ | ** No Stream** |  |
