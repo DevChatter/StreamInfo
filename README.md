@@ -24,9 +24,9 @@
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
 | July 2 - **Monday 2PM EDT** | Learn to Code in C# - Ep 2 |  |
-| June 3 - **Tuesday 2PM EDT** |  |  |
-| June 5 - **Thursday 12PM EDT** |  |  |
-| June 7 - **Saturday 1PM EDT** |  |  |
+| July 3 - **Tuesday 2PM EDT** |  |  |
+| July 5 - **Thursday 12PM EDT** |  |  |
+| ~July 7 - **Saturday 1PM EDT**~ | ** No Stream** |  |
  
 ## Planned (or Wishful) Streams
 
