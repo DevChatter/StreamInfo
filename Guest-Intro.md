@@ -10,7 +10,7 @@ There are a few things that need to happen before the stream.
 
 Check the [upcoming streams](https://github.com/DevChatter/StreamInfo#upcoming-streams), and chat with me to choose a date of the stream.
 
-My regular schedule is:
+Our regular schedule is:
 
 - Monday 2PM Eastern Time
 - Tuesday 2PM Eastern Time
