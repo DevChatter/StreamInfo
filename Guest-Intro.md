@@ -39,3 +39,11 @@ Before the stream, you can look up the project we'll be working on at our GitHub
 If you're not sure about your computer's audio/video set up, we can set up a quick skype call in advance to check everything.
 
 Also, be sure to arrive to the event 15 minutes before hand, so we can work through all the technical issues and chat in advance of the stream.
+
+#### Required Installs
+
+- Text Editor (either of these):
+  - Visual Studio
+  - VS Code
+- VS Live Share Extension
+- Skype
