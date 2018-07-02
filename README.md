@@ -14,28 +14,46 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| June 25 - **Monday 2PM EDT** | Programming Exercises - RPG Combat (Part 2) |  |
-| June 26 - **Tuesday 2PM EDT** | Chat Bot Programming |  |
-| June 28 - **Thursday 12PM EDT** |  |  |
-| June 30 - **Saturday 1PM EDT** | [Learn to Code in C# - Ep 1](https://www.twitch.tv/events/lp4qOf69SYWsBxguja-XFQ) |  |
-
-#### Next Week
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | July 2 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 2](https://www.twitch.tv/events/X3md4yPZTAOof5Sj9jSRbQ) |  |
 | July 3 - **Tuesday 2PM EDT** | Pair Programming | [Simon Timms](https://twitter.com/stimms) |
 | July 5 - **Thursday 12PM EDT** |  |  |
 | ~July 7 - **Saturday 1PM EDT**~ | ** No Stream** |  |
 
-#### Upcoming Week
+#### The Week After Next
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| July 16 - **Monday 2PM EDT** |  |  |
+| July 16 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 3](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
 | July 17 - **Tuesday 2PM EDT** |  |  |
 | July 19 - **Thursday 12PM EDT** |  |  |
 | July 21 - **Saturday 1PM EDT** |  |  |
+ 
+#### Future Week
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| July 23 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 4](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
+| July 24 - **Tuesday 2PM EDT** |  |  |
+| July 26 - **Thursday 12PM EDT** |  |  |
+| July 28 - **Saturday 1PM EDT** | [Learn to Code in C# - Ep 5](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
+
+#### End of July/Start of August
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| July 30 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 6](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
+| July 31 - **Tuesday 2PM EDT** |  |  |
+| August 1 - **Thursday 12PM EDT** |  |  |
+| August 2 - **Saturday 1PM EDT** |  |  |
+
+#### First Full Week of August
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| August 6 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 6](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
+| August 7 - **Tuesday 2PM EDT** |  |  |
+| August 9 - **Thursday 12PM EDT** |  |  |
+| August 11 - **Saturday 1PM EDT** |  |  |
  
 ## Planned (or Wishful) Streams
 
