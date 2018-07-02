@@ -41,7 +41,7 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| July 30 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 6](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
+| July 30 - **Monday 2PM EDT** |  |  |
 | July 31 - **Tuesday 2PM EDT** |  |  |
 | August 1 - **Thursday 12PM EDT** |  |  |
 | August 2 - **Saturday 1PM EDT** |  |  |
