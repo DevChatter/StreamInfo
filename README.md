@@ -24,7 +24,7 @@
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
 | July 16 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 3](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
-| July 17 - **Tuesday 2PM EDT** |  |  |
+| July 17 - **Tuesday 2PM EDT** | Application Security Stream | [Bill Sempf](https://twitter.com/sempf) |
 | July 19 - **Thursday 12PM EDT** |  |  |
 | July 21 - **Saturday 1PM EDT** |  |  |
  
