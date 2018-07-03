@@ -2,7 +2,7 @@
 
 ## Planned Future Guests
 
- - Simon Timms ([@stimms](https://twitter.com/stimms)) - Unscheduled
+ - Bill Sempf ([@sempf](https://twitter.com/sempf)) - July 24, 2018
  - Guy Royse ([@guyroyse](https://twitter.com/guyroyse)) - Unscheduled
  - Jon Skeet ([@jonskeet](https://twitter.com/jonskeet)) - Unscheduled
  
@@ -20,4 +20,5 @@ Have someone you think I should get as a guest on the stream?
  - Maxime Rouiller (1 Stream) - [@MaximRouiller](https://twitter.com/MaximRouiller)
  - J. Tower (1 Stream) - [@jtowermi](https://twitter.com/jtowermi)
  - Steve Smith (1 Stream) - [@ardalis](https://twitter.com/ardalis)
+ - Simon Timms (1 Stream) - [@stimms](https://twitter.com/stimms)
  
