@@ -29,6 +29,7 @@ If you've got a particular area of expertise that you wish to highlight, we can 
 - Programming Exercises
   - [Ardalis Kata Catalog](https://github.com/ardalis/kata-catalog)
 - [Learn to Code in C#](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg)
+- Special Topic or Event
 
 We'll want to choose a topic that we can work on together, but keep in mind that some topics are on specific days. For example, the "Learn to Code in C#" streams are scheduled in advance.
 
