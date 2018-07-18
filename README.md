@@ -14,28 +14,19 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| July 2 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 2](https://www.twitch.tv/events/X3md4yPZTAOof5Sj9jSRbQ) |  |
-| July 3 - **Tuesday 2PM EDT** | Pair Programming | [Simon Timms](https://twitter.com/stimms) |
-| July 5 - **Thursday 12PM EDT** | Programming Exercise Stream! |  |
-| ~July 7 - **Saturday 1PM EDT**~ | ** No Stream** |  |
-
-#### The Week After Next
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
-| July 16 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 3](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
-| July 17 - **Tuesday 2PM EDT** |  |  |
+| ~July 16 - **Monday 2PM EDT**~ | **Cancelled** |  |
+| ~July 17 - **Tuesday 2PM EDT**~ | **Cancelled** |  |
 | July 19 - **Thursday 12PM EDT** |  |  |
 | July 21 - **Saturday 1PM EDT** |  |  |
  
-#### Future Week
+#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| July 23 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 4](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
+| July 23 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 3](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
 | July 24 - **Tuesday 2PM EDT** | Application Security Stream | [Bill Sempf](https://twitter.com/sempf) |
 | July 26 - **Thursday 12PM EDT** |  |  |
-| July 28 - **Saturday 1PM EDT** | [Learn to Code in C# - Ep 5](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
+| July 28 - **Saturday 1PM EDT** | [Learn to Code in C# - Ep 4](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
 
 #### End of July/Start of August
 
