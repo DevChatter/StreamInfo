@@ -40,7 +40,7 @@
 | ------------------------------- | ------------- | ------------- |
 | August 6 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 5](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
 | August 7 - **Tuesday 2PM EDT** |  |  |
-| August 9 - **Thursday 12PM EDT** |  |  |
+| August 9 - **Thursday 12PM EDT** |  | [Cassandra Faris](https://twitter.com/cassandrafaris) |
 | August 11 - **Saturday 1PM EDT** |  |  |
  
 ## Planned (or Wishful) Streams
