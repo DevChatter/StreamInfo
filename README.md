@@ -14,10 +14,7 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| ~July 16 - **Monday 2PM EDT**~ | **Cancelled** |  |
-| ~July 17 - **Tuesday 2PM EDT**~ | **Cancelled** |  |
-| July 19 - **Thursday 12PM EDT** |  |  |
-| July 21 - **Saturday 1PM EDT** |  |  |
+| July 21 - **Saturday 1PM EDT** | Discussing Decorator Pattern and improving our ScheduleCommand |  |
  
 #### Next Week
 
