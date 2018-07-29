@@ -14,21 +14,12 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| July 23 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 3](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
-| July 24 - **Tuesday 2PM EDT** | Application Security Stream | [Bill Sempf](https://twitter.com/sempf) |
-| July 26 - **Thursday 12PM EDT** |  | [Chris "Woody" Woodruff](https://twitter.com/cwoodruff) |
-| July 28 - **Saturday 1PM EDT** | [Learn to Code in C# - Ep 4](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
-
-#### Next Week
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | July 30 - **Monday 2PM EDT** |  |  |
 | July 31 - **Tuesday 2PM EDT** |  |  |
-| August 1 - **Thursday 12PM EDT** |  |  |
+| August 1 - **Thursday 12PM EDT** |  | [Chris "Woody" Woodruff](https://twitter.com/cwoodruff) |
 | August 2 - **Saturday 1PM EDT** |  |  |
 
-#### First Full Week of August
+#### Next August
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
