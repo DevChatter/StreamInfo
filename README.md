@@ -32,7 +32,6 @@
 
  - [SOLID Principles Workshop](https://github.com/DevChatter/StreamInfo/issues/12)
  - [Powershell Workshop](https://github.com/DevChatter/StreamInfo/issues/11)
- - [Application Security Stream](https://github.com/DevChatter/StreamInfo/issues/10)
  - Pair Programming the design of our site/bot with a designer.
  - Architecture Review and Refactoring Stream
  - Programming Competition Stream (many guests)
