@@ -2,7 +2,8 @@
 
 ## Planned Future Guests
 
- - Bill Sempf ([@sempf](https://twitter.com/sempf)) - July 24, 2018
+ - Cassandra Faris ([@cassandrafaris](https://twitter.com/cassandrafaris)) - August 9, 2018
+ - Chris "Woody" Woodruff ([@cwoodruff](https://twitter.com/cwoodruff)) - Unscheduled
  - Guy Royse ([@guyroyse](https://twitter.com/guyroyse)) - Unscheduled
  - Jon Skeet ([@jonskeet](https://twitter.com/jonskeet)) - Unscheduled
  
@@ -21,4 +22,5 @@ Have someone you think I should get as a guest on the stream?
  - J. Tower (1 Stream) - [@jtowermi](https://twitter.com/jtowermi)
  - Steve Smith (1 Stream) - [@ardalis](https://twitter.com/ardalis)
  - Simon Timms (1 Stream) - [@stimms](https://twitter.com/stimms)
+ - Bill Sempf (1 Stream) - [@sempf](https://twitter.com/sempf)
  
