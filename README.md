@@ -16,8 +16,8 @@
 | ------------------------------- | ------------- | ------------- |
 | July 30 - **Monday 2PM EDT** |  |  |
 | July 31 - **Tuesday 2PM EDT** |  |  |
-| August 1 - **Thursday 12PM EDT** |  |  |
-| August 2 - **Saturday 1PM EDT** |  |  |
+| August 2 - **Thursday 12PM EDT** |  |  |
+| August 4 - **Saturday 1PM EDT** |  |  |
 
 #### Next August
 
