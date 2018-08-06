@@ -14,19 +14,10 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| July 30 - **Monday 2PM EDT** |  |  |
-| July 31 - **Tuesday 2PM EDT** |  |  |
-| August 2 - **Thursday 12PM EDT** |  |  |
-| August 4 - **Saturday 1PM EDT** |  |  |
-
-#### Next August
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | August 6 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 5](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
-| August 7 - **Tuesday 2PM EDT** |  |  |
-| August 9 - **Thursday 12PM EDT** |  | [Cassandra Faris](https://twitter.com/cassandrafaris) |
-| August 11 - **Saturday 1PM EDT** |  |  |
+| August 7 - **Tuesday 2PM EDT** | Coding Challenge | James Gifford |
+| August 9 - **Thursday 12PM EDT** | Engaging the Developer Community | [Cassandra Faris](https://twitter.com/cassandrafaris) |
+| August 11 - **Saturday 1PM EDT** | Learn to Code in C# - Ep 6 |  |
  
 ## Planned (or Wishful) Streams
 
