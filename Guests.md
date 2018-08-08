@@ -23,4 +23,5 @@ Have someone you think I should get as a guest on the stream?
  - Steve Smith (1 Stream) - [@ardalis](https://twitter.com/ardalis)
  - Simon Timms (1 Stream) - [@stimms](https://twitter.com/stimms)
  - Bill Sempf (1 Stream) - [@sempf](https://twitter.com/sempf)
+ - James Gifford (1 Stream) - [@jrgifford](https://twitter.com/jrgifford)
  
