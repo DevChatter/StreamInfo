@@ -18,6 +18,24 @@
 | August 7 - **Tuesday 2PM EDT** | Coding Challenge | James Gifford |
 | August 9 - **Thursday 12PM EDT** | Engaging the Developer Community | [Cassandra Faris](https://twitter.com/cassandrafaris) |
 | August 11 - **Saturday 1PM EDT** | Learn to Code in C# - Ep 6 |  |
+
+#### Next Week
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| August 13 - **Monday 2PM EDT** |  |  |
+| August 14 - **Tuesday 2PM EDT** |  |  |
+| August 16 - **Thursday 12PM EDT** |  |  |
+| August 18 - **Saturday 1PM EDT** |  |  |
+
+#### Week After Next
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| August 20 - **Monday 2PM EDT** |  |  |
+| August 21 - **Tuesday 2PM EDT** |  |  |
+| August 23 - **Thursday 12PM EDT** |  |  |
+| August 25 - **Saturday 1PM EDT** |  |  |
  
 ## Planned (or Wishful) Streams
 
