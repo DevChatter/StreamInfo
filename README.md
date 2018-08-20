@@ -14,21 +14,12 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| August 13 - **Monday 2PM EDT** | Clean Architecture Refactoring - Improving Our Code! |  |
-| August 14 - **Tuesday 2PM EDT** |  |  |
-| August 16 - **Thursday 12PM EDT** |  |  |
-| August 18 - **Saturday 1PM EDT** | [Single Responsibility Principle - SOLID Saturday](https://www.twitch.tv/events/A5JGW71FT3q2m0mdk7llXQ) |  |
-
-#### Next Week
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | August 20 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 7](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
 | August 21 - **Tuesday 2PM EDT** |  |  |
 | August 23 - **Thursday 12PM EDT** |  |  |
 | August 25 - **Saturday 1PM EDT** | [Open/Closed Principle - SOLID Saturday](https://www.twitch.tv/events/A5JGW71FT3q2m0mdk7llXQ) |  |
 
-#### Week After Next
+#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
@@ -57,7 +48,6 @@
  
 ## Planned (or Wishful) Streams
 
- - [SOLID Principles Workshop](https://github.com/DevChatter/StreamInfo/issues/12)
  - [Powershell Workshop](https://github.com/DevChatter/StreamInfo/issues/11)
  - Pair Programming the design of our site/bot with a designer.
  - Architecture Review and Refactoring Stream
