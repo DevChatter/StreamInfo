@@ -34,7 +34,7 @@
 | ------------------------------- | ------------- | ------------- |
 | September 3 - **Monday 2PM EDT** |  |  |
 | September 4 - **Tuesday 2PM EDT** |  |  |
-| September 6 - **Thursday 12PM EDT** |  |  |
+| September 6 - **Thursday 12PM EDT** |  | [Kevin Griffin](https://twitter.com/1KevGriff) |
 | September 8 - **Saturday 1PM EDT** | [Interface Segregation Principle - SOLID Saturday](https://www.twitch.tv/events/A5JGW71FT3q2m0mdk7llXQ) |  |
 
 #### Second Week of September
