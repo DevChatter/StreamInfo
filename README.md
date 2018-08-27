@@ -14,21 +14,12 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| August 20 - **Monday 2PM EDT** | [Learn to Code in C# - Ep 7](https://www.twitch.tv/events/9I5Zdxl4Q_eTUV_QjHxxQg) |  |
-| August 21 - **Tuesday 2PM EDT** |  |  |
-| August 23 - **Thursday 12PM EDT** |  |  |
-| August 25 - **Saturday 1PM EDT** | [Open/Closed Principle - SOLID Saturday](https://www.twitch.tv/events/A5JGW71FT3q2m0mdk7llXQ) |  |
-
-#### Next Week
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | August 27 - **Monday 2PM EDT** |  | [Chris "Woody" Woodruff](https://twitter.com/cwoodruff) |
 | August 28 - **Tuesday 2PM EDT** |  |  |
 | August 30 - **Thursday 12PM EDT** | Engaging the Developer Community | [Cassandra Faris](https://twitter.com/cassandrafaris) |
 | September 1 - **Saturday 1PM EDT** | [Liskov Substitution Principle - SOLID Saturday](https://www.twitch.tv/events/A5JGW71FT3q2m0mdk7llXQ) |  |
 
-#### Start of September
+#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
@@ -37,7 +28,7 @@
 | September 6 - **Thursday 12PM EDT** |  | [Kevin Griffin](https://twitter.com/1KevGriff) |
 | September 8 - **Saturday 1PM EDT** | [Interface Segregation Principle - SOLID Saturday](https://www.twitch.tv/events/A5JGW71FT3q2m0mdk7llXQ) |  |
 
-#### Second Week of September
+#### Week After Next
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
