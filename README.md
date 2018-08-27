@@ -14,7 +14,7 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| August 27 - **Monday 2PM EDT** |  | [Chris "Woody" Woodruff](https://twitter.com/cwoodruff) |
+| August 27 - **Monday 2PM EDT** |  |  |
 | August 28 - **Tuesday 2PM EDT** |  |  |
 | August 30 - **Thursday 12PM EDT** | Engaging the Developer Community | [Cassandra Faris](https://twitter.com/cassandrafaris) |
 | September 1 - **Saturday 1PM EDT** | [Liskov Substitution Principle - SOLID Saturday](https://www.twitch.tv/events/A5JGW71FT3q2m0mdk7llXQ) |  |
