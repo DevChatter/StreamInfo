@@ -14,21 +14,12 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| August 27 - **Monday 2PM EDT** |  |  |
-| August 28 - **Tuesday 2PM EDT** |  |  |
-| August 30 - **Thursday 12PM EDT** | Networking and the Developer Community | [Cassandra Faris](https://twitter.com/cassandrafaris) |
-| September 1 - **Saturday 1PM EDT** | [Liskov Substitution Principle - SOLID Saturday](https://www.twitch.tv/events/A5JGW71FT3q2m0mdk7llXQ) |  |
-
-#### Next Week
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | September 3 - **Monday 2PM EDT** | STREAM 100 Celebration!!! |  |
 | September 4 - **Tuesday 2PM EDT** |  |  |
 | September 6 - **Thursday 12PM EDT** |  | [Kevin Griffin](https://twitter.com/1KevGriff) |
 | September 8 - **Saturday 1PM EDT** | [Interface Segregation Principle - SOLID Saturday](https://www.twitch.tv/events/A5JGW71FT3q2m0mdk7llXQ) |  |
 
-#### Week After Next
+#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
