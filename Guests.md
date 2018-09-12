@@ -2,7 +2,6 @@
 
 ## Planned Future Guests
 
- - Cassandra Faris ([@cassandrafaris](https://twitter.com/cassandrafaris)) - August 9, 2018
  - Chris "Woody" Woodruff ([@cwoodruff](https://twitter.com/cwoodruff)) - Unscheduled
  - Guy Royse ([@guyroyse](https://twitter.com/guyroyse)) - Unscheduled
  - Jon Skeet ([@jonskeet](https://twitter.com/jonskeet)) - Unscheduled
@@ -28,4 +27,4 @@ Have someone you think I should get as a guest on the stream?
  - Simon Timms (1 Stream) - [@stimms](https://twitter.com/stimms)
  - Bill Sempf (1 Stream) - [@sempf](https://twitter.com/sempf)
  - James Gifford (1 Stream) - [@jrgifford](https://twitter.com/jrgifford)
- 
+ - Cassandra Faris (1 Stream) - [@cassandrafaris](https://twitter.com/cassandrafaris) 
