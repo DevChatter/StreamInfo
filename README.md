@@ -45,6 +45,24 @@
 | October 2 - **Tuesday 2PM EDT** |  |  |
 | October 4 - **Thursday 12PM EDT** |  |  |
 | October 6 - **Saturday 1PM EDT** |  |  |
+
+#### Second Week of October
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| October 8 - **Monday 2PM EDT** |  |  |
+| October 9 - **Tuesday 2PM EDT** |  |  |
+| October 11 - **Thursday 12PM EDT** |  |  |
+| October 13 - **Saturday 1PM EDT** |  |  |
+
+#### Third Week of October
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| October 15 - **Monday 2PM EDT** |  |  |
+| October 16 - **Tuesday 2PM EDT** |  |  |
+| October 18 - **Thursday 12PM EDT** | Some Guy Doing Machine Learning Stuff | Guy Royse |
+| October 20 - **Saturday 1PM EDT** |  |  |
  
 ## Planned (or Wishful) Streams
 
