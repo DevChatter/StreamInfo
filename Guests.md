@@ -14,6 +14,7 @@ Have someone you think I should get as a guest on the stream?
  - Woody Zuill ([@WoodyZuill](https://twitter.com/WoodyZuill))
  - Llewellyn Falco ([@LlewellynFalco](https://twitter.com/LlewellynFalco))
  - Nik Molnar ([@nikmd23](https://twitter.com/nikmd23))
+ - Scott Wlaschin ([@ScottWlaschin](https://twitter.com/ScottWlaschin))
 
 ## Past Guests
 
