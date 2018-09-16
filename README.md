@@ -35,7 +35,7 @@
 | September 24 - **Monday 2PM EDT** |  |  |
 | September 25 - **Tuesday 2PM EDT** |  |  |
 | September 27 - **Thursday 12PM EDT** |  |  |
-| September 29 - **Saturday 1PM EDT** |  |  |
+| September 29 - **Saturday 1PM EDT** |  | Michael Eaton ([@mjeaton](https://twitter.com/mjeaton)) |
 
 #### First Week of October
 
