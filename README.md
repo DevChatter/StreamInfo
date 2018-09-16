@@ -61,7 +61,7 @@
 | ------------------------------- | ------------- | ------------- |
 | October 15 - **Monday 2PM EDT** |  |  |
 | October 16 - **Tuesday 2PM EDT** |  |  |
-| October 18 - **Thursday 12PM EDT** | Some Guy Doing Machine Learning Stuff | Guy Royse |
+| October 18 - **Thursday 12PM EDT** | Some Guy Doing Machine Learning Stuff | Guy Royse ([@guyroyse](https://twitter.com/guyroyse)) |
 | October 20 - **Saturday 1PM EDT** |  |  |
  
 ## Planned (or Wishful) Streams
