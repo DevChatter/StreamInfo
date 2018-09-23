@@ -14,26 +14,8 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| September 10 - **Monday 2PM EDT** |  |  |
-| September 11 - **Tuesday 2PM EDT** |  |  |
-| September 13 - **Thursday 12PM EDT** |  |  |
-| September 15 - **Saturday 1PM EDT** | [Dependency Inversion Principle - SOLID Saturday](https://www.twitch.tv/events/A5JGW71FT3q2m0mdk7llXQ) |  |
-
-#### Next Week
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
-| September 17 - **Monday 2PM EDT** |  |  |
-| September 18 - **Tuesday 2PM EDT** |  |  |
-| September 20 - **Thursday 12PM EDT** |  |  |
-| September 22 - **Saturday 1PM EDT** |  |  |
-
-#### Week After Next
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | September 24 - **Monday 2PM EDT** |  |  |
-| September 25 - **Tuesday 2PM EDT** |  |  |
+| September 25 - **Tuesday 2PM EDT**|  |  |
 | September 27 - **Thursday 12PM EDT** |  |  |
 | September 29 - **Saturday 1PM EDT** |  | Michael Eaton ([@mjeaton](https://twitter.com/mjeaton)) |
 
