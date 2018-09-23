@@ -19,16 +19,16 @@
 | September 27 - **Thursday 12PM EDT** |  |  |
 | September 29 - **Saturday 1PM EDT** |  | Michael Eaton ([@mjeaton](https://twitter.com/mjeaton)) |
 
-#### First Week of October
+#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
 | October 1 - **Monday 2PM EDT** |  |  |
 | October 2 - **Tuesday 2PM EDT** |  |  |
-| October 4 - **Thursday 12PM EDT** |  |  |
-| October 6 - **Saturday 1PM EDT** |  |  |
+| ~October 4 - **Thursday 12PM EDT**~ | **Cancelled** |  |
+| ~October 6 - **Saturday 1PM EDT**~ | **Cancelled** |  |
 
-#### Second Week of October
+#### Week After Next
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
