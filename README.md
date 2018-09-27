@@ -24,7 +24,7 @@
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
 | October 1 - **Monday 2PM EDT** |  |  |
-| October 2 - **Tuesday 2PM EDT** |  |  |
+| October 2 - **Tuesday 2PM EDT** |  | Jonathan Knapp [@cc_jonknapp](https://twitter.com/cc_jonknapp) |
 | ~October 4 - **Thursday 12PM EDT**~ | **Cancelled** |  |
 | ~October 6 - **Saturday 1PM EDT**~ | **Cancelled** |  |
 
