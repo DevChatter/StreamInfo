@@ -12,28 +12,20 @@
 
 #### This Week
 
+
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| September 24 - **Monday 2PM EDT** |  |  |
-| September 25 - **Tuesday 2PM EDT**|  |  |
-| September 27 - **Thursday 12PM EDT** |  |  |
-| September 29 - **Saturday 1PM EDT** |  | Michael Eaton ([@mjeaton](https://twitter.com/mjeaton)) |
+| October 1 - **Monday 2PM EDT** |  |  |
+| ~October 2 - **Tuesday 2PM EDT**~ | **Cancelled** |  |
+| ~October 4 - **Thursday 12PM EDT**~ | **Cancelled** |  |
+| October 6 - **Saturday 1PM EDT** |  |  |
 
 #### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| October 1 - **Monday 2PM EDT** |  |  |
-| October 2 - **Tuesday 2PM EDT** |  | Jonathan Knapp [@cc_jonknapp](https://twitter.com/cc_jonknapp) |
-| ~October 4 - **Thursday 12PM EDT**~ | **Cancelled** |  |
-| ~October 6 - **Saturday 1PM EDT**~ | **Cancelled** |  |
-
-#### Week After Next
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | October 8 - **Monday 2PM EDT** |  |  |
-| October 9 - **Tuesday 2PM EDT** |  |  |
+| October 9 - **Tuesday 2PM EDT** |  | Jonathan Knapp [@cc_jonknapp](https://twitter.com/cc_jonknapp) |
 | October 11 - **Thursday 12PM EDT** |  |  |
 | October 13 - **Saturday 1PM EDT** |  |  |
 
