@@ -3,8 +3,9 @@
 ## Planned Future Guests
 
  - Chris "Woody" Woodruff ([@cwoodruff](https://twitter.com/cwoodruff)) - Unscheduled
- - Guy Royse ([@guyroyse](https://twitter.com/guyroyse)) - Unscheduled
+ - Guy Royse ([@guyroyse](https://twitter.com/guyroyse)) - Oct 18
  - Jon Skeet ([@jonskeet](https://twitter.com/jonskeet)) - Unscheduled
+ - Jonathan Knapp [@cc_jonknapp](https://twitter.com/cc_jonknapp) - Oct 9
  
 ### Guest Suggestions
 
