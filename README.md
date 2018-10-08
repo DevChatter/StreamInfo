@@ -15,7 +15,7 @@
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
 | October 8 - **Monday 2PM EDT** |  |  |
-| October 9 - **Tuesday 2PM EDT** |  | Jonathan Knapp [@cc_jonknapp](https://twitter.com/cc_jonknapp) |
+| October 9 - **Tuesday 2PM EDT** | Discussion of JavaScript Frameworks | Jonathan Knapp [@cc_jonknapp](https://twitter.com/cc_jonknapp) |
 | October 11 - **Thursday 12PM EDT** |  |  |
 | October 13 - **Saturday 1PM EDT** |  |  |
 
