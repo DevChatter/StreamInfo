@@ -12,16 +12,6 @@
 
 #### This Week
 
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
-| October 1 - **Monday 2PM EDT** |  |  |
-| ~October 2 - **Tuesday 2PM EDT**~ | **Cancelled** |  |
-| ~October 4 - **Thursday 12PM EDT**~ | **Cancelled** |  |
-| October 6 - **Saturday 1PM EDT** | We're back! |  |
-
-#### Next Week
-
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
 | October 8 - **Monday 2PM EDT** |  |  |
@@ -29,7 +19,7 @@
 | October 11 - **Thursday 12PM EDT** |  |  |
 | October 13 - **Saturday 1PM EDT** |  |  |
 
-#### Third Week of October
+#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
