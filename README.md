@@ -16,14 +16,14 @@
 | ------------------------------- | ------------- | ------------- |
 | October 8 - **Monday 2PM EDT** |  |  |
 | October 9 - **Tuesday 2PM EDT** | Discussion of JavaScript Frameworks | Jonathan Knapp [@cc_jonknapp](https://twitter.com/cc_jonknapp) |
-| October 11 - **Thursday 12PM EDT** |  |  |
+| October 11 - **Thursday 12PM EDT** |  | -------- |
 | October 13 - **Saturday 1PM EDT** |  |  |
 
 #### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| October 15 - **Monday 2PM EDT** |  |  |
+| October 15 - **Monday 2PM EDT** |  | David Paquette ([@Dave_Paquette](https://twitter.com/Dave_Paquette)) |
 | October 16 - **Tuesday 2PM EDT** |  |  |
 | October 18 - **Thursday 12PM EDT** | Some Guy Doing Machine Learning Stuff | Guy Royse ([@guyroyse](https://twitter.com/guyroyse)) |
 | October 20 - **Saturday 1PM EDT** |  |  |
