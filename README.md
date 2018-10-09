@@ -27,6 +27,24 @@
 | October 16 - **Tuesday 2PM EDT** |  |  |
 | October 18 - **Thursday 12PM EDT** | Some Guy Doing Machine Learning Stuff | Guy Royse ([@guyroyse](https://twitter.com/guyroyse)) |
 | October 20 - **Saturday 1PM EDT** |  |  |
+
+#### Week After Next
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| October 22 - **Monday 2PM EDT** |  |  |
+| October 23 - **Tuesday 2PM EDT** |  |  |
+| October 25 - **Thursday 12PM EDT** |  |  |
+| October 27 - **Saturday 1PM EDT** |  |  |
+
+#### End of October / Beginning of November
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| October 29 - **Monday 2PM EDT** |  |  |
+| October 30 - **Tuesday 2PM EDT** |  |  |
+| November 1 - **Thursday 12PM EDT** |  |  |
+| November 3 - **Saturday 1PM EDT** |  |  |
  
 ## Planned (or Wishful) Streams
 
