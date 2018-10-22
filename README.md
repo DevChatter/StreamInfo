@@ -12,16 +12,6 @@
 
 #### This Week
 
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
-| October 15 - **Monday 2PM EDT** |  | David Paquette ([@Dave_Paquette](https://twitter.com/Dave_Paquette)) |
-| October 16 - **Tuesday 2PM EDT** |  |  |
-| October 18 - **Thursday 12PM EDT** | Fun Stream Game Stuff | Guy Royse ([@guyroyse](https://twitter.com/guyroyse)) |
-| October 20 - **Saturday 1PM EDT** |  |  |
-
-#### Next Week
-
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
 | October 22 - **Monday 2PM EDT** |  |  |
@@ -29,7 +19,7 @@
 | October 25 - **Thursday 12PM EDT** |  |  |
 | October 27 - **Saturday 1PM EDT** |  |  |
 
-#### Week After Next
+#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
@@ -37,6 +27,24 @@
 | October 30 - **Tuesday 2PM EDT** |  |  |
 | November 1 - **Thursday 12PM EDT** |  |  |
 | November 3 - **Saturday 1PM EDT** |  |  |
+
+#### Week After Next
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| November 5 - **Monday 2PM EDT** |  |  |
+| November 6 - **Tuesday 2PM EDT** |  |  |
+| November 8 - **Thursday 12PM EDT** |  |  |
+| November 10 - **Saturday 1PM EDT** | **Might Canceled or Rescheduled** |  |
+
+#### Mid November
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| November 12 - **Monday 2PM EDT** |  |  |
+| November 13 - **Tuesday 2PM EDT** |  |  |
+| November 15 - **Thursday 12PM EDT** |  |  |
+| November 17 - **Saturday 1PM EDT** | **Might Canceled or Rescheduled** |  |
  
 ## Planned (or Wishful) Streams
 
