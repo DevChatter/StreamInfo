@@ -58,10 +58,3 @@
 We're always looking for new guests for the show. Please let us know if you have any suggestions for future guests!
  
 [All Guests](Guests.md)
-
-## Stream Goals
-
- - ~512 Followers - Celebratory 5+ hour stream~ **COMPLETED**
- - ~1024 Followers~ - We'll do a prize giveaway, and I'll plan a special event stream! **Reached. [Planning...](https://github.com/DevChatter/StreamInfo/issues/5)**
- - 2048 Followers - We'll do another prize giveaway, and I'll plan a special event stream!
- - Twitch Partner Status - New Subscriber Emotes (and another surprise)
