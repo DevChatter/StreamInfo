@@ -33,7 +33,7 @@
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
 | November 5 - **Monday 2PM EDT** |  |  |
-| November 6 - **Tuesday 2PM EDT** |  |  |
+| November 6 - **Tuesday 2PM EDT** |  | [Rachel Appel (@RachelAppel)](https://twitter.com/RachelAppel) |
 | November 8 - **Thursday 12PM EDT** |  |  |
 | November 10 - **Saturday 1PM EDT** | **Might Canceled or Rescheduled** |  |
 
