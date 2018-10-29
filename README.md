@@ -14,21 +14,12 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| October 22 - **Monday 2PM EDT** |  |  |
-| October 23 - **Tuesday 2PM EDT** |  |  |
-| October 25 - **Thursday 12PM EDT** |  |  |
-| October 27 - **Saturday 1PM EDT** |  |  |
-
-#### Next Week
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | October 29 - **Monday 2PM EDT** |  |  |
 | October 30 - **Tuesday 2PM EDT** |  |  |
-| November 1 - **Thursday 12PM EDT** |  |  |
+| November 1 - **Thursday 12PM EDT** | Learn to Code in C# | MrBubzTv |
 | November 3 - **Saturday 1PM EDT** |  |  |
 
-#### Week After Next
+#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
@@ -37,7 +28,7 @@
 | November 8 - **Thursday 12PM EDT** |  |  |
 | November 10 - **Saturday 1PM EDT** | **Might Canceled or Rescheduled** |  |
 
-#### Mid November
+#### Week After Next
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
