@@ -2,10 +2,10 @@
 
 ## Regular Schedule
 
- - Mondays at 2PM EDT
- - Tuesdays at 2PM EDT
- - Thursdays at 12PM EDT
- - Saturdays at 1PM EDT
+ - Mondays at 2PM EST
+ - Tuesdays at 2PM EST
+ - Thursdays at 12PM EST
+ - Saturdays at 1PM EST
  
 
 ## Upcoming Streams
@@ -14,37 +14,37 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| November 5 - **Monday 2PM EDT** |  |  |
-| November 6 - **Tuesday 2PM EDT** | Designing and Programming Accessible UIs | [Rachel Appel (@RachelAppel)](https://twitter.com/RachelAppel) |
-| November 8 - **Thursday 12PM EDT** |  |  |
-| November 10 - **Saturday 1PM EDT** |  |  |
+| November 5 - **Monday 2PM EST** |  |  |
+| November 6 - **Tuesday 2PM EST** | Designing and Programming Accessible UIs | [Rachel Appel (@RachelAppel)](https://twitter.com/RachelAppel) |
+| November 8 - **Thursday 12PM EST** |  |  |
+| November 10 - **Saturday 1PM EST** |  |  |
 
 #### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| November 12 - **Monday 2PM EDT** |  |  |
-| November 13 - **Tuesday 2PM EDT** |  |  |
-| November 15 - **Thursday 12PM EDT** |  |  |
-| November 17 - **Saturday 1PM EDT** | **Canceled or Rescheduled** |  |
+| November 12 - **Monday 2PM EST** |  |  |
+| November 13 - **Tuesday 2PM EST** |  |  |
+| November 15 - **Thursday 12PM EST** |  |  |
+| November 17 - **Saturday 1PM EST** | **Canceled or Rescheduled** |  |
  
 #### Week After Next
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| November 19 - **Monday 2PM EDT** |  |  |
-| November 20 - **Tuesday 2PM EDT** |  |  |
-| November 22 - **Thursday 12PM EDT** | **Likely Canceled** |  |
-| November 24 - **Saturday 1PM EDT** | **Likely Canceled** |  |
+| November 19 - **Monday 2PM EST** |  |  |
+| November 20 - **Tuesday 2PM EST** |  |  |
+| November 22 - **Thursday 12PM EST** | **Likely Canceled** |  |
+| November 24 - **Saturday 1PM EST** | **Likely Canceled** |  |
 
 #### End of November
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| November 26 - **Monday 2PM EDT** |  |  |
-| November 27 - **Tuesday 2PM EDT** |  |  |
-| November 29 - **Thursday 12PM EDT** |  |  |
-| December 1 - **Saturday 1PM EDT** |  |  |
+| November 26 - **Monday 2PM EST** |  |  |
+| November 27 - **Tuesday 2PM EST** |  |  |
+| November 29 - **Thursday 12PM EST** |  |  |
+| December 1 - **Saturday 1PM EST** |  |  |
 
 ## Planned (or Wishful) Streams
 
