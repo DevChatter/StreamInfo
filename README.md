@@ -17,7 +17,7 @@
 | November 5 - **Monday 2PM EDT** |  |  |
 | November 6 - **Tuesday 2PM EDT** | Designing and Programming Accessible UIs | [Rachel Appel (@RachelAppel)](https://twitter.com/RachelAppel) |
 | November 8 - **Thursday 12PM EDT** |  |  |
-| November 10 - **Saturday 1PM EDT** | **Might Canceled or Rescheduled** |  |
+| November 10 - **Saturday 1PM EDT** |  |  |
 
 #### Next Week
 
@@ -26,7 +26,7 @@
 | November 12 - **Monday 2PM EDT** |  |  |
 | November 13 - **Tuesday 2PM EDT** |  |  |
 | November 15 - **Thursday 12PM EDT** |  |  |
-| November 17 - **Saturday 1PM EDT** | **Might Canceled or Rescheduled** |  |
+| November 17 - **Saturday 1PM EDT** | **Canceled or Rescheduled** |  |
  
 #### Week After Next
 
