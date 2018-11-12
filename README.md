@@ -14,21 +14,12 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| November 5 - **Monday 2PM EST** |  |  |
-| November 6 - **Tuesday 2PM EST** |  |  |
-| November 8 - **Thursday 12PM EST** |  |  |
-| November 10 - **Saturday 1PM EST** |  |  |
-
-#### Next Week
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | November 12 - **Monday 2PM EST** |  |  |
 | November 13 - **Tuesday 2PM EST** | Designing and Programming Accessible UIs | [Rachel Appel (@RachelAppel)](https://twitter.com/RachelAppel) |
 | November 15 - **Thursday 12PM EST** |  |  |
 | November 17 - **Saturday 1PM EST** | **Canceled or Rescheduled** |  |
- 
-#### Week After Next
+
+#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
@@ -37,7 +28,7 @@
 | November 22 - **Thursday 12PM EST** | **Likely Canceled** |  |
 | November 24 - **Saturday 1PM EST** | **Likely Canceled** |  |
 
-#### End of November
+#### Week After Next
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
