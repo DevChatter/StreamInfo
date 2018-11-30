@@ -14,19 +14,28 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| November 19 - **Monday 2PM EST** |  |  |
-| November 20 - **Tuesday 2PM EST** |  |  |
-| November 22 - **Thursday 12PM EST** | **Canceled** |  |
-| November 24 - **Saturday 1PM EST** | **Likely Canceled** |  |
+| November 26 - **Monday 2PM EST** |  |  |
+| November 27 - **Tuesday 2PM EST** |  |  |
+| November 29 - **Thursday 12PM EST** |  |  |
+| December 1 - **Saturday 1PM EST** | ** Cancelled** |  |
 
 #### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| November 26 - **Monday 2PM EST** |  |  |
-| November 27 - **Tuesday 2PM EST** |  |  |
-| November 29 - **Thursday 12PM EST** |  |  |
-| December 1 - **Saturday 1PM EST** |  |  |
+| December 3 - **Monday 2PM EST** |  |  |
+| December 4 - **Tuesday 2PM EST** |  | Guy Royse |
+| December 6 - **Thursday 12PM EST** | Learn to Code in C# | MrBubzTV |
+| December 8 - **Saturday 1PM EST** | **Late or Cancelled** |  |
+
+#### Week After Next
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| December 10 - **Monday 2PM EST** |  |  |
+| December 11 - **Tuesday 2PM EST** |  |  |
+| December 13 - **Thursday 12PM EST** |  |  |
+| December 15 - **Saturday 1PM EST** |  |  |
 
 ## Planned (or Wishful) Streams
 
