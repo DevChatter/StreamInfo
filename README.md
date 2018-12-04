@@ -14,21 +14,12 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| November 26 - **Monday 2PM EST** |  |  |
-| November 27 - **Tuesday 2PM EST** |  |  |
-| November 29 - **Thursday 12PM EST** |  |  |
-| December 1 - **Saturday 1PM EST** | ** Cancelled** |  |
-
-#### Next Week
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | December 3 - **Monday 2PM EST** |  |  |
-| December 4 - **Tuesday 2PM EST** |  | Guy Royse |
-| December 6 - **Thursday 12PM EST** | Learn to Code in C# | MrBubzTV |
+| December 4 - **Tuesday 2PM EST** |  | Guy Royse ([@guyroyse](https://twitter.com/guyroyse)) |
+| December 6 - **Thursday 12PM EST** | Learn to Code in C# | Mr Bubz [@MrBubzTV](https://twitter.com/MrBubzTV) |
 | December 8 - **Saturday 1PM EST** | **Late or Cancelled** |  |
 
-#### Week After Next
+#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
@@ -36,6 +27,24 @@
 | December 11 - **Tuesday 2PM EST** |  |  |
 | December 13 - **Thursday 12PM EST** |  |  |
 | December 15 - **Saturday 1PM EST** |  |  |
+
+#### Week After Next
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| December 17 - **Monday 2PM EST** |  |  |
+| December 18 - **Tuesday 2PM EST** |  |  |
+| December 20 - **Thursday 12PM EST** |  |  |
+| December 22 - **Saturday 1PM EST** |  |  |
+
+#### Week After Next
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| December 24 - **Monday 2PM EST** | **CANCELLED** | **CANCELLED** |
+| December 25 - **Tuesday 2PM EST** | **CANCELLED** | **CANCELLED** |
+| December 27 - **Thursday 12PM EST** |  |  |
+| December 29 - **Saturday 1PM EST** |  |  |
 
 ## Planned (or Wishful) Streams
 
