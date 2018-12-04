@@ -16,7 +16,7 @@
 | ------------------------------- | ------------- | ------------- |
 | December 3 - **Monday 2PM EST** |  |  |
 | December 4 - **Tuesday 2PM EST** |  | Guy Royse ([@guyroyse](https://twitter.com/guyroyse)) |
-| December 6 - **Thursday 12PM EST** | Learn to Code in C# | Mr Bubz [@MrBubzTV](https://twitter.com/MrBubzTV) |
+| December 6 - **Thursday 12PM EST** | Learn to Code in C# | Mr Bubz ([@MrBubzTV](https://twitter.com/MrBubzTV)) |
 | December 8 - **Saturday 1PM EST** | **Late or Cancelled** |  |
 
 #### Next Week
