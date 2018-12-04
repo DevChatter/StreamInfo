@@ -37,7 +37,7 @@
 | December 20 - **Thursday 12PM EST** |  |  |
 | December 22 - **Saturday 1PM EST** |  |  |
 
-#### Week After Next
+#### End of December
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
@@ -45,6 +45,7 @@
 | December 25 - **Tuesday 2PM EST** | **CANCELLED** | **CANCELLED** |
 | December 27 - **Thursday 12PM EST** |  |  |
 | December 29 - **Saturday 1PM EST** |  |  |
+
 
 ## Planned (or Wishful) Streams
 
