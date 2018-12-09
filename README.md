@@ -35,7 +35,7 @@
 | December 17 - **Monday 2PM EST** |  |  |
 | December 18 - **Tuesday 2PM EST** |  |  |
 | December 20 - **Thursday 12PM EST** |  |  |
-| December 22 - **Saturday 1PM EST** |  |  |
+| December 22 - **Saturday 1PM EST** | **CANCELLED** | **CANCELLED** |
 
 #### End of December
 
