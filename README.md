@@ -14,30 +14,21 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| December 3 - **Monday 2PM EST** |  |  |
-| December 4 - **Tuesday 2PM EST** |  | Guy Royse ([@guyroyse](https://twitter.com/guyroyse)) |
-| December 6 - **Thursday 12PM EST** | Learn to Code in C# | Mr Bubz ([@MrBubzTV](https://twitter.com/MrBubzTV)) |
-| December 8 - **Saturday 1PM EST** | |  |
-
-#### Next Week
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | December 10 - **Monday 2PM EST** |  |  |
 | December 11 - **Tuesday 2PM EST** |  |  |
 | December 13 - **Thursday 12PM EST** |  |  |
 | December 15 - **Saturday 1PM EST** |  |  |
 
-#### Week After Next
+#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| December 17 - **Monday 2PM EST** |  |  |
+| December 17 - **Monday 2PM EST** |  | David Paquette ([@Dave_Paquette](https://twitter.com/Dave_Paquette)) |
 | December 18 - **Tuesday 2PM EST** |  |  |
 | December 20 - **Thursday 12PM EST** |  |  |
 | December 22 - **Saturday 1PM EST** | **CANCELLED** | **CANCELLED** |
 
-#### End of December
+#### Week After Next
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
