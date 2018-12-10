@@ -15,7 +15,7 @@
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
 | December 10 - **Monday 2PM EST** |  | Ed Charbeneau ([@EdCharbeneau](https://twitter.com/EdCharbeneau)) |
-| December 11 - **Tuesday 2PM EST** |  |  |
+| December 11 - **Tuesday 2PM EST** | Scheduling and TimeZones | Jon Skeet ([@jonskeet](https://twitter.com/jonskeet)) |
 | December 13 - **Thursday 12PM EST** |  |  |
 | December 15 - **Saturday 1PM EST** |  |  |
 
