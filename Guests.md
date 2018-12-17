@@ -3,9 +3,7 @@
 ## Planned Future Guests
 
  - Chris "Woody" Woodruff ([@cwoodruff](https://twitter.com/cwoodruff)) - Unscheduled
- - Guy Royse ([@guyroyse](https://twitter.com/guyroyse)) - Oct 18
- - Jon Skeet ([@jonskeet](https://twitter.com/jonskeet)) - Unscheduled
- - Jonathan Knapp [@cc_jonknapp](https://twitter.com/cc_jonknapp) - Oct 9
+ 
  
 ### Guest Suggestions
 
@@ -32,3 +30,9 @@ Have someone you think I should get as a guest on the stream?
  - James Gifford (1 Stream) - [@jrgifford](https://twitter.com/jrgifford)
  - Cassandra Faris (1 Stream) - [@cassandrafaris](https://twitter.com/cassandrafaris) 
  - Michael Eaton (1 Stream) - [@mjeaton](https://twitter.com/mjeaton)
+ - Guy Royse (2 Streams) - [@guyroyse](https://twitter.com/guyroyse)
+ - Rachel Appel [@RachelAppel](https://twitter.com/rachelappel)
+ - Jon Skeet (1 Stream) - [@jonskeet](https://twitter.com/jonskeet)
+ - Ed Charbeneau (1 Stream) - [@EdCharbeneau](https://twitter.com/EdCharbeneau)
+ - Jonathan Knapp (1 Stream) - [@cc_jonknapp](https://twitter.com/cc_jonknapp)
+ 
