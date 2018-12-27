@@ -14,19 +14,38 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| December 17 - **Monday 2PM EST** |  | David Paquette ([@Dave_Paquette](https://twitter.com/Dave_Paquette)) |
-| December 18 - **Tuesday 2PM EST** |  |  |
-| December 20 - **Thursday 12PM EST** | Holiday Spectacular! |  |
-| December 22 - **Saturday 1PM EST** | **CANCELLED** | **CANCELLED** |
+| December 24 - **Monday 2PM EST** | **CANCELLED** | **CANCELLED** |
+| December 25 - **Tuesday 2PM EST** | **CANCELLED** | **CANCELLED** |
+| December 27 - **Thursday 12PM EST** | **CANCELLED** | **CANCELLED** |
+| December 29 - **Saturday 1PM EST** |  |  |
 
 #### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| December 24 - **Monday 2PM EST** | **CANCELLED** | **CANCELLED** |
-| December 25 - **Tuesday 2PM EST** | **CANCELLED** | **CANCELLED** |
-| December 27 - **Thursday 12PM EST** |  |  |
-| December 29 - **Saturday 1PM EST** |  |  |
+| December 31 - **Monday 2PM EST** |  |  |
+| January 1 - **Tuesday 2PM EST** |  |  |
+| January 3 - **Thursday 12PM EST** |  |  |
+| January 5 - **Saturday 1PM EST** |  |  |
+
+
+#### Week After Next
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| January 7 - **Monday 2PM EST** |  |  |
+| January 8 - **Tuesday 2PM EST** |  |  |
+| January 10 - **Thursday 12PM EST** |  |  |
+| January 12 - **Saturday 1PM EST** |  |  |
+
+#### Mid January
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| January 14 - **Monday 2PM EST** |  |  |
+| January 15 - **Tuesday 2PM EST** |  |  |
+| January 17 - **Thursday 12PM EST** |  |  |
+| January 19 - **Saturday 1PM EST** |  |  |
 
 
 ## Planned (or Wishful) Streams
