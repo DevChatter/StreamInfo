@@ -14,20 +14,20 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| January 14 - **Monday 2PM EST** | **Cancelled due to illness** |  |
-| January 15 - **Tuesday 2PM EST** | **Cancelled due to illness** |  |
-| January 17 - **Thursday 12PM EST** |  |  |
-| January 19 - **Saturday 1PM EST** |  |  |
-
+| January 21 - **Monday 2PM EST** | **Cancelled due to illness** |  |
+| January 22 - **Tuesday 2PM EST** |  |  |
+| January 24 - **Thursday 12PM EST** |  | Dave Paquette |
+| January 26 - **Saturday 1PM EST** |  |  |
 
 #### Next Week
 
+
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| January 21 - **Monday 2PM EST** |  |  |
-| January 22 - **Tuesday 2PM EST** |  |  |
-| January 24 - **Thursday 12PM EST** |  |  |
-| January 26 - **Saturday 1PM EST** |  |  |
+| January 28 - **Monday 2PM EST** |  |  |
+| January 29 - **Tuesday 2PM EST** |  |  |
+| January 31 - **Thursday 12PM EST** |  |  |
+| February 2 - **Saturday 1PM EST** | Infinite Loops | Phil Connors |
 
 ## Planned (or Wishful) Streams
 
