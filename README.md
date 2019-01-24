@@ -21,13 +21,48 @@
 
 #### Next Week
 
-
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
 | January 28 - **Monday 2PM EST** |  |  |
 | January 29 - **Tuesday 2PM EST** |  |  |
 | January 31 - **Thursday 12PM EST** |  |  |
 | February 2 - **Saturday 1PM EST** | Infinite Loops | Phil Connors |
+
+#### Week After Next
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| February 4 - **Monday 2PM EST** |  |  |
+| February 5 - **Tuesday 2PM EST** | **1 Year Anniversary Stream!** |  |
+| February 7 - **Thursday 12PM EST** |  |  |
+| February 9 - **Saturday 1PM EST** |  |  |
+
+#### Mid-February
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| February 11 - **Monday 2PM EST** |  |  |
+| February 12 - **Tuesday 2PM EST** |  |  |
+| February 14 - **Thursday 12PM EST** |  |  |
+| February 16 - **Saturday 1PM EST** |  |  |
+
+#### Late February
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| February 18 - **Monday 2PM EST** |  |  |
+| February 19 - **Tuesday 2PM EST** |  |  |
+| February 21 - **Thursday 12PM EST** |  |  |
+| February 23 - **Saturday 1PM EST** |  |  |
+
+#### End of February
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| February 25 - **Monday 2PM EST** |  |  |
+| February 26 - **Tuesday 2PM EST** |  |  |
+| February 28 - **Thursday 12PM EST** |  |  |
+| March 2 - **Saturday 1PM EST** |  |  |
 
 ## Planned (or Wishful) Streams
 
