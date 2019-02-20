@@ -14,48 +14,12 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| January 21 - **Monday 2PM EST** | **Cancelled due to illness** |  |
-| January 22 - **Tuesday 2PM EST** |  |  |
-| January 24 - **Thursday 12PM EST** |  | Dave Paquette |
-| January 26 - **Saturday 1PM EST** |  |  |
-
-#### Next Week
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
-| January 28 - **Monday 2PM EST** |  |  |
-| January 29 - **Tuesday 2PM EST** |  |  |
-| January 31 - **Thursday 12PM EST** |  |  |
-| February 2 - **Saturday 1PM EST** | Infinite Loops | Phil Connors |
-
-#### Week After Next
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
-| February 4 - **Monday 2PM EST** |  |  |
-| February 5 - **Tuesday 2PM EST** | **1 Year Anniversary Stream!** |  |
-| February 7 - **Thursday 12PM EST** |  |  |
-| February 9 - **Saturday 1PM EST** |  |  |
-
-#### Mid-February
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
-| February 11 - **Monday 2PM EST** |  |  |
-| February 12 - **Tuesday 2PM EST** |  |  |
-| February 14 - **Thursday 12PM EST** |  |  |
-| February 16 - **Saturday 1PM EST** |  |  |
-
-#### Late February
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | February 18 - **Monday 2PM EST** |  |  |
 | February 19 - **Tuesday 2PM EST** |  |  |
 | February 21 - **Thursday 12PM EST** |  |  |
 | February 23 - **Saturday 1PM EST** |  |  |
 
-#### End of February
+#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
@@ -63,6 +27,43 @@
 | February 26 - **Tuesday 2PM EST** |  |  |
 | February 28 - **Thursday 12PM EST** |  |  |
 | March 2 - **Saturday 1PM EST** |  |  |
+
+#### Week After Next
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| March 4 - **Monday 2PM EST** |  |  |
+| March 5 - **Tuesday 2PM EST** |  |  |
+| March 7 - **Thursday 12PM EST** |  |  |
+| March 9 - **Saturday 1PM EST** |  |  |
+
+#### Mid March
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| March 11 - **Monday 2PM EST** |  |  |
+| March 12 - **Tuesday 2PM EST** |  |  |
+| March 14 - **Thursday 12PM EST** |  |  |
+| March 16 - **Saturday 1PM EST** |  |  |
+
+#### Late March
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| March 18 - **Monday 2PM EST** |  |  |
+| March 19 - **Tuesday 2PM EST** |  |  |
+| March 21 - **Thursday 12PM EST** |  |  |
+| March 23 - **Saturday 1PM EST** |  |  |
+
+#### End of March
+
+| Date and Time                   | Topic         | Guest         |
+| ------------------------------- | ------------- | ------------- |
+| March 25 - **Monday 2PM EST** |  |  |
+| March 26 - **Tuesday 2PM EST** |  |  |
+| March 28 - **Thursday 12PM EST** |  |  |
+| March 30 - **Saturday 1PM EST** |  |  |
+
 
 ## Planned (or Wishful) Streams
 
