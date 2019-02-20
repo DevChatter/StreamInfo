@@ -44,7 +44,7 @@
 | March 11 - **Monday 2PM EST** |  |  |
 | March 12 - **Tuesday 2PM EST** |  |  |
 | March 14 - **Thursday 12PM EST** |  |  |
-| March 16 - **Saturday 1PM EST** |  |  |
+| March 16 - **Saturday 1PM EST** | **CANCELLED STREAM** |  |
 
 #### Late March
 
@@ -52,7 +52,7 @@
 | ------------------------------- | ------------- | ------------- |
 | March 18 - **Monday 2PM EST** |  |  |
 | March 19 - **Tuesday 2PM EST** |  |  |
-| March 21 - **Thursday 12PM EST** |  |  |
+| March 21 - **Thursday 12PM EST** | **Stream Status Unknown** |  |
 | March 23 - **Saturday 1PM EST** |  |  |
 
 #### End of March
@@ -62,7 +62,7 @@
 | March 25 - **Monday 2PM EST** |  |  |
 | March 26 - **Tuesday 2PM EST** |  |  |
 | March 28 - **Thursday 12PM EST** |  |  |
-| March 30 - **Saturday 1PM EST** |  |  |
+| March 30 - **Saturday 1PM EST** | **CANCELLED STREAM** |  |
 
 
 ## Planned (or Wishful) Streams
