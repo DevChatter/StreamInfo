@@ -14,39 +14,21 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| February 18 - **Monday 2PM EST** |  |  |
-| February 19 - **Tuesday 2PM EST** |  |  |
-| February 21 - **Thursday 12PM EST** |  |  |
-| February 23 - **Saturday 1PM EST** |  |  |
-
-#### Next Week
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
-| February 25 - **Monday 2PM EST** |  |  |
-| February 26 - **Tuesday 2PM EST** |  |  |
-| February 28 - **Thursday 12PM EST** |  |  |
-| March 2 - **Saturday 1PM EST** |  |  |
-
-#### Week After Next
-
-| Date and Time                   | Topic         | Guest         |
-| ------------------------------- | ------------- | ------------- |
 | March 4 - **Monday 2PM EST** |  |  |
 | March 5 - **Tuesday 2PM EST** |  |  |
 | March 7 - **Thursday 12PM EST** |  |  |
 | March 9 - **Saturday 1PM EST** |  |  |
 
-#### Mid March
+#### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
 | March 11 - **Monday 2PM EST** |  |  |
 | March 12 - **Tuesday 2PM EST** |  |  |
-| March 14 - **Thursday 12PM EST** |  |  |
+| March 14 - **Thursday 12PM EST** | **CANCELLED STREAM** |  |
 | March 16 - **Saturday 1PM EST** | **CANCELLED STREAM** |  |
 
-#### Late March
+#### Week After Next
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
