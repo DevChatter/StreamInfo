@@ -14,37 +14,25 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| March 4 - **Monday 2PM EST** |  |  |
-| March 5 - **Tuesday 2PM EST** |  |  |
-| March 7 - **Thursday 12PM EST** |  |  |
-| March 9 - **Saturday 1PM EST** |  |  |
+| March 7 - **Saturday 1PM EST** |  | Guy Royse |
 
 #### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| March 11 - **Monday 2PM EDT** |  |  |
-| March 12 - **Tuesday 2PM EDT** |  |  |
-| March 14 - **Thursday 12PM EDT** | **CANCELLED STREAM** |  |
-| March 16 - **Saturday 1PM EDT** | **CANCELLED STREAM** |  |
+| March 14 - **Saturday 1PM EDT** |  |  |
 
 #### Week After Next
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| March 18 - **Monday 2PM EDT** |  |  |
-| March 19 - **Tuesday 2PM EDT** |  |  |
-| March 21 - **Thursday 12PM EDT** | **Stream Status Unknown** |  |
-| March 23 - **Saturday 1PM EDT** |  |  |
+| March 21 - **Saturday 1PM EDT** |  |  |
 
 #### End of March
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| March 25 - **Monday 2PM EDT** |  |  |
-| March 26 - **Tuesday 2PM EDT** |  |  |
-| March 28 - **Thursday 12PM EDT** |  |  |
-| March 30 - **Saturday 1PM EDT** | **CANCELLED STREAM** |  |
+| March 28 - **Saturday 1PM EDT** |  |  |
 
 
 ## Planned (or Wishful) Streams
