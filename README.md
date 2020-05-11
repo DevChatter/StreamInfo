@@ -14,25 +14,25 @@
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| March 7 - **Saturday 1PM EST** |  | Guy Royse |
+| May 16 - **Saturday 1PM EST** | Inefficient Data Structures in JavaScript | Guy Royse |
 
 #### Next Week
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| March 14 - **Saturday 1PM EDT** |  |  |
+| May 23 - **Saturday 1PM EDT** |  |  |
 
 #### Week After Next
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| March 21 - **Saturday 1PM EDT** |  |  |
+| May 30 - **Saturday 1PM EDT** |  |  |
 
-#### End of March
+#### Next Month
 
 | Date and Time                   | Topic         | Guest         |
 | ------------------------------- | ------------- | ------------- |
-| March 28 - **Saturday 1PM EDT** |  |  |
+| June 6 - **Saturday 1PM EDT** |  |  |
 
 
 ## Planned (or Wishful) Streams
